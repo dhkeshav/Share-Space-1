@@ -14,8 +14,8 @@ Due to lack of support, unfortunately, it's difficult for us to keep�
 
 |🌟Beta/Older Version Source Code⭐|
 |:---:|
-|Version :- 4.0.3-beta(coming soon)/1.18.00/&Others|
-|[More info](https://github.com/Shiv-Shambhu/Leaf-Explorer/blob/main/BetaVersion.MD)|
+|Version :- 4.0.4-beta(new version)/1.18.00/&Others|
+|[Download Source Code](https://github.com/Shiv-Shambhu/Leaf-Explorer/blob/main/BetaVersion.MD)|
 
 ## Features
 #### File Manager
