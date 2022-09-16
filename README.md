@@ -1,46 +1,6 @@
-# Leaf Explorer - File Manager, File Sharing & Music Player App for Android
+## Leaf Explorer - File Manager, File Sharing & Music Player App for Android
 
 free and secure tool that helps you find file faster, manage files easily, share them offline with others and play music offline.
-
-|What's new/Fixes|Leaf Explorer (v-4.0.2)|Trebleshot (v-2.0.4)|
-|:---:|:---:|:---:|
-|File Manager|✔️|✖️|
-|Setup Hotspot using WiFi Direct|✔️|✖️|
-|Barcode scanner Connection problem in android 11|✔️(solved)|✖️|
-|Music Player|✔️|✖️|
-
-|🌟Beta/Older Version Source Code⭐|
-|:---:|
-|Version :- 4.0.3-beta(coming soon)/1.18.00/&Others|
-|[More info](https://github.com/Shiv-Shambhu/Leaf-Explorer/blob/main/BetaVersion.MD)|
-
-### Apk file :- [Leaf Explorer v-4.0.2.apk](https://github.com/Shiv-Shambhu/Leaf-Explorer/tree/main/Version)
-### App Demo : [Google Play](https://play.google.com/store/apps/details?id=com.leaf.explorer)
-[<img src="assets/google-play-badge.png" width="200">](https://play.google.com/store/apps/details?id=com.leaf.explorer)
-
-### Source Code (V-4.0.2) : [Download](https://github.com/Shiv-Shambhu/Leaf-Explorer/tree/main/Version)
-
-### Join Telegram
-1. Get all Available updates of **Leaf Explorer** via Telegram Channel.
-2. All Information About Leaf Explorer.
-##### [Join Telegram channel](https://t.me/Shiv_Shambhu_Github)</br>
-
-
-### Leaf Explorer screen
-| <img src = "https://github.com/Shiv-Shambhu/Leaf-Explorer/blob/main/Image/transfer_history.jpg" width = "300"/> | <img src = "https://github.com/Shiv-Shambhu/Leaf-Explorer/blob/main/Image/send_file.jpg" width = "300"/> |
-|:---:|:---:|
-| Transfer History | Send Files |
-
-| <img src = "https://github.com/Shiv-Shambhu/Leaf-Explorer/blob/main/Image/receive_file.jpg" width = "300"/> | <img src = "https://github.com/Shiv-Shambhu/Leaf-Explorer/blob/main/Image/web_pc_share.jpg" width = "300"/> |
-|:---:|:---:|
-| File Receive | Web/PC Share |
-
-| <img src = "https://github.com/Shiv-Shambhu/Leaf-Explorer/blob/main/Image/connect_device.jpg" width = "300"/> | <img src = "https://github.com/Shiv-Shambhu/Leaf-Explorer/blob/main/Image/leaf_music_player.jpg" width = "300"/>|
-|:---:|:---:|
-| Connect Devices | Music Player |
-
-### Web Interface
-[![Web Interface](https://github.com/trebleshot/assets/blob/main/screenshots/android/web1.png)](https://github.com/trebleshot/assets/blob/main/screenshots/android/web1.png)
 
 ## Main Features
 
@@ -49,7 +9,12 @@ free and secure tool that helps you find file faster, manage files easily, share
 - [x] File PC Share (Via Wi-Fi Connection with Browser).
 - [x] Music Player.
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mahadev-code&label=Count&color=0e75b6&style=plastic" alt="mahadev-code" /> </p>
+|## Support ​☕|
+|:---:|
+|Due to lack of support, unfortunately, it's difficult for us to keep supporting the project. If you like the app and want us to fix and improve it, please consider giving us a boost.|
+|🌟Beta/Older Version Source Code⭐|
+|Version :- 4.0.3-beta(coming soon)/1.18.00/&Others|
+|[More info](https://github.com/Shiv-Shambhu/Leaf-Explorer/blob/main/BetaVersion.MD)|
 
 ## Features
 #### File Manager
@@ -70,11 +35,46 @@ free and secure tool that helps you find file faster, manage files easily, share
 * Music organised by songs and folders;
 * Now playing, embedded covers, search, sorting...
 
+|What's new/Fixes|Leaf Explorer (v-4.0.2)|Trebleshot (v-2.0.4)|
+|:---:|:---:|:---:|
+|File Manager|✔️|✖️|
+|Setup Hotspot using WiFi Direct|✔️|✖️|
+|Barcode scanner Connection problem in android 11|✔️(solved)|✖️|
+|Music Player|✔️|✖️|
+
+### Apk file :- [Leaf Explorer v-4.0.2.apk](https://github.com/Shiv-Shambhu/Leaf-Explorer/tree/main/Version)
+### App Demo : [Google Play](https://play.google.com/store/apps/details?id=com.leaf.explorer)
+[<img src="assets/google-play-badge.png" width="200">](https://play.google.com/store/apps/details?id=com.leaf.explorer)
+
+### Source Code (V-4.0.2) : [Download](https://github.com/Shiv-Shambhu/Leaf-Explorer/tree/main/Version)
+
+### Join Telegram
+1. Get all Available updates of **Leaf Explorer** via Telegram Channel.
+2. All Information About Leaf Explorer.
+##### [Join Telegram channel](https://t.me/Shiv_Shambhu_Github)</br>
+
+### Leaf Explorer screen
+[![Web Interface](https://github.com/Shiv-Shambhu/Leaf-Explorer/blob/main/Image/leaf-explorer_banner.jpg)](https://github.com/Shiv-Shambhu/Leaf-Explorer/blob/main/Image/leaf-explorer_banner.jpg)
+
+| <img src = "https://github.com/Shiv-Shambhu/Leaf-Explorer/blob/main/Image/transfer_history.jpg" width = "300"/> | <img src = "https://github.com/Shiv-Shambhu/Leaf-Explorer/blob/main/Image/send_file.jpg" width = "300"/> |
+|:---:|:---:|
+| Transfer History | Send Files |
+
+| <img src = "https://github.com/Shiv-Shambhu/Leaf-Explorer/blob/main/Image/receive_file.jpg" width = "300"/> | <img src = "https://github.com/Shiv-Shambhu/Leaf-Explorer/blob/main/Image/web_pc_share.jpg" width = "300"/> |
+|:---:|:---:|
+| File Receive | Web/PC Share |
+
+| <img src = "https://github.com/Shiv-Shambhu/Leaf-Explorer/blob/main/Image/connect_device.jpg" width = "300"/> | <img src = "https://github.com/Shiv-Shambhu/Leaf-Explorer/blob/main/Image/leaf_music_player.jpg" width = "300"/>|
+|:---:|:---:|
+| Connect Devices | Music Player |
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mahadev-code&label=Count&color=0e75b6&style=plastic" alt="mahadev-code" /> </p>
+
+### Web Interface
+[![Web Interface](https://github.com/trebleshot/assets/blob/main/screenshots/android/web1.png)](https://github.com/trebleshot/assets/blob/main/screenshots/android/web1.png)
+
 #### Report your [issues](https://github.com/Shiv-Shambhu/Leaf-Explorer/issues) here.
 
-
-## Support ​☕
-Due to lack of support, unfortunately, it's difficult for us to keep supporting the project. If you like the app and want us to fix and improve it, please consider giving us a boost.
 ## Donation
 If this project help you reduce time to develop, you can give me a cup of coffee :)
 
