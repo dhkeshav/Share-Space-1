@@ -10,3 +10,11 @@ Download [Leaf Explorer Donate App from Google Play Store](https://play.google.c
  [https://play.google.com/store/apps/details?id=com.leaf.explorer.pro](https://play.google.com/store/apps/details?id=com.leaf.explorer.pro)
 
 ☺️
+### Leaf Explorer v5.0.0-beta screen
+
+| <img src = "https://github.com/Shiv-Shambhu/Leaf-Explorer/blob/main/Image/beta_home_page.jpg" width = "300"/> | <img src = "https://github.com/Shiv-Shambhu/Leaf-Explorer/blob/main/Image/beta_file_manager.jpg" width = "300"/> |
+|:---:|:---:|
+| Home | File Manager |
+| <img src = "https://github.com/Shiv-Shambhu/Leaf-Explorer/blob/main/Image/beta_web_share.jpg" width = "300"/> |
+| Web Share |
+
