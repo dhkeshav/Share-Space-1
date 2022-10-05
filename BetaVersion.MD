@@ -12,7 +12,7 @@ Download [Leaf Explorer Donate App from Google Play Store](https://play.google.c
 ☺️
 ***What's new?***
 
-- [x] Support for Android 10, 11 and 12
+- [x] Android 12 support
 - [x] File Manager in new style
 - [x] It is easier to use Web Share now
 - [x] Material3 Design
