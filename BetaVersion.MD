@@ -10,6 +10,13 @@ Download [Leaf Explorer Donate App from Google Play Store](https://play.google.c
  [https://play.google.com/store/apps/details?id=com.leaf.explorer.pro](https://play.google.com/store/apps/details?id=com.leaf.explorer.pro)
 
 ☺️
+***What's new?***
+
+- [x] Support for Android 10, 11 and 12
+- [x] File Manager in new style
+- [x] It is easier to use Web Share now
+- [x] Material3 Design
+
 ### Leaf Explorer v5.0.0-beta screen
 
 | <img src = "https://github.com/Shiv-Shambhu/Leaf-Explorer/blob/main/Image/beta_home_page.jpg" width = "300"/> | <img src = "https://github.com/Shiv-Shambhu/Leaf-Explorer/blob/main/Image/beta_file_manager.jpg" width = "300"/> |
